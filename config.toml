@@ -5,7 +5,7 @@
 #
 #=========================================================================================
 
-base_url = "https://example.com"      # Domain name of your website
+base_url = "https://blog-967.pages.dev"      # Domain name of your website
 title = "Yoan Baulande"
 description = "Yoan Baulande blog"
 default_language = "en"
