@@ -64,8 +64,8 @@ blog_section_path = "/posts"
 
 links = [
     { name = "GitHub", icon = "github", url = "https://github.com/yoanbaulande" },
-    { name = "Twitter", icon = "twitter", url = "https://twitter.com/<your-username>" },
-    { name = "Email", icon = "email", url = "mailto:<your-email-address>" },
+    # { name = "Twitter", icon = "twitter", url = "https://twitter.com/<your-username>" },
+    # { name = "Email", icon = "email", url = "mailto:<your-email-address>" },
 ]
 
 force_theme = false                   # false | "light" | "dark"
