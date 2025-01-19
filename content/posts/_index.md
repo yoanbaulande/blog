@@ -1,6 +1,6 @@
 +++
-title = "My Blog"
-description = "My blog."
+title = "Yoan Baulande"
+description = "Yoan Baulande blog."
 sort_by = "date"
 template = "blog.html"
 page_template = "post.html"
