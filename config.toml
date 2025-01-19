@@ -43,7 +43,7 @@ anchors = "on"
 
 name = "Yoan Baulande"
 id = "yoanbaulande"
-bio = "Student in computer science"
+bio = "Student and Programmer."
 avatar = "img/avatar.webp"
 
 display_id = true
@@ -58,14 +58,14 @@ sections = [
     { name = "posts", path = "/posts", is_external = false },
     # { name = "projects", path = "/projects", is_external = false },
     # { name = "about", path = "/about", is_external = false },
-    # { name = "github", path = "https://github.com/<your-username>", is_external = true },
+    # { name = "github", path = "https://github.com/yoanbaulande", is_external = true },
 ]
 blog_section_path = "/posts"
 
 links = [
+    { name = "LinkedIn", icon = "linkedin", url = "https://www.linkedin.com/in/yoan-baulande/" },
     { name = "GitHub", icon = "github", url = "https://github.com/yoanbaulande" },
-    # { name = "Twitter", icon = "twitter", url = "https://twitter.com/<your-username>" },
-    # { name = "Email", icon = "email", url = "mailto:<your-email-address>" },
+    { name = "Email", icon = "email", url = "mailto:yoan.baulande@protonmail.com" },
 ]
 
 force_theme = false                   # false | "light" | "dark"
