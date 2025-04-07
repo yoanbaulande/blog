@@ -1,5 +1,5 @@
 +++
-title = "Yoan Baulande::posts"
+title = "Yoan Baulande Posts"
 description = "Yoan Baulande blog."
 sort_by = "date"
 template = "blog.html"
